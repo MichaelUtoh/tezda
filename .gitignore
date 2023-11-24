@@ -1,0 +1,8 @@
+.env
+
+*.pyc
+*.zip
+
+__pycache__
+
+notes.txt
